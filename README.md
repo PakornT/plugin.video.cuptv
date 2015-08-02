@@ -30,11 +30,10 @@ warrenty as described in the file "COPYING.txt"
 
 Credits
 -------
- - andrepl
-	Initial addon development.
 
-[githubzip]: https://github.com/k3oni/plugin.video.world.news.live/archive/master.zip
-[issues]: https://github.com/k3oni/plugin.video.world.news.live/
+
+[githubzip]: https://github.com/PakornT/plugin.video.cuptv/archive/master.zip
+[issues]: https://github.com/PakornT/plugin.video.cuptv/
 [gist]: https://gist.github.com
 [xbmclogs]: http://xbmclogs.com/
 [xbmc-wiki-log-file]: http://wiki.xbmc.org/index.php?title=Log_file/Advanced#Log_files
