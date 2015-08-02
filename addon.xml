@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.cuptv" name="CupTV" version="1 (beta)" provider-name="BigEeyoR">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+<?    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simplejson" version="3.3.0"/> ?>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="th">CupTV on-deman</summary>
+    <description lang="en">Feel free to enjoy CupTV service, a TV on-demand website.</description>
+    <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+    <source>https://github.com/PakornT/CupTV/tree/master/plugin.video.cuptv</source>
+    <forum>BLANK</forum>
+  </extension>
+</addon>
+
